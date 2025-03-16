@@ -1,0 +1,10 @@
+###Steps to register the DB
+# the user is using seeder to create a database, so we don't need to create it manually
+# the password for the database is the same as the one for the user
+# the port is 5432
+# the host is localhost
+# the name of the database is UserDB
+# the username for the database is dba
+# the password for the database is dba
+#register new server: 
+#hostname: paybank-db
